@@ -1,8 +1,8 @@
 # SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models Performance in Visual Question Answering
 
-This repo provides the source code & data of our paper [SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models Performance in Visual Question Answering]() (2025).
+This repo provides the source code & data of our paper [SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models Performance in Visual Question Answering]() (2024).
 
-![](SCRA-VQA\figure_all.png)
+<img src="IOG-VQA/IOG-VQA.png" width="900">
 
 ## 1. Dependencies
 
@@ -12,7 +12,7 @@ This repo provides the source code & data of our paper [SCRA-VQA: Summarized Cap
 
 ## 2. Download data
 
-To reproduce these evaluation results , you can follow the next steps:
+To reproduce these evaluation results, you can follow the next steps:
 
 Firstly, you should download the generated caption question files from this [link](https://drive.google.com/drive/folders/1KbBrWTac5YuG_b6CVEWM4jYwpR_YbcEO?usp=sharing), and put them in the `caption_question_files` folder. Then download the 2014\_coco val anotation file in  [link](https://cocodataset.org/), and put it in `annotation_new` folder.
 
@@ -56,7 +56,7 @@ Many thanks to the authors and developers!
 
 ## Others
 
-If you use any of our code, processed data or pretrained models, please cite:
+If you use any of our code, processed data or pre-trained models, please cite:
 
 ```bib
 ```

@@ -47,7 +47,6 @@ To evaluate OK-VQA on SCRA-VQA, run
 This repo is built upon the following work:
 
 ```
-<!-- From Images to Textual Prompts: Zero-shot Visual Question Answering with Frozen Large Language Models -->
 https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa
 
 ```

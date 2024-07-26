@@ -48,7 +48,6 @@ This repo is built upon the following work:
 
 ```
 https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa
-
 ```
 
 Many thanks to the authors and developers!

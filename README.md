@@ -1,6 +1,6 @@
 # SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models Performance in Visual Question Answering
 
-This repo provides the source code & data of our paper [SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models Performance in Visual Question Answering]() (Oral paper accepted by DASFAA 2025).
+This repo provides the source code & data of our paper [SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models in Visual Question Answering]() (Oral paper accepted by DASFAA 2025).
 
 <img src="figure_all.png" width="900">
 

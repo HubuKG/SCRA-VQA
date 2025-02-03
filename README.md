@@ -56,6 +56,12 @@ Many thanks to the authors and developers!
 
 If you use any of our code, processed data, or pre-trained models, please cite:
 
-```bib
+```
+@inproceedings{SCRA-VQA,
+   author = {Zhang, Yan and Lin, Jiaqing and Zhang, Miao and Xiao, Kui and Hou, Xiaoju and Zhao, Yue and Li, Zhifei},
+   title = {SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models in Visual Question Answering},
+   booktitle = {Proceedings of the 30th International Conference on Database Systems for Advanced Applications},
+   year = {2025}
+}
 ```
 

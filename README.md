@@ -52,7 +52,7 @@ https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa
 
 Many thanks to the authors and developers!
 
-## Others
+## Citation
 
 If you use any of our code, processed data, or pre-trained models, please cite:
 
